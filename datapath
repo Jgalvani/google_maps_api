@@ -1,0 +1,4 @@
+{
+  'scraping_darty.csv' : '../data/scraping_darty.csv',
+  'apikey.txt' : '../data/apikey.txt'
+}
